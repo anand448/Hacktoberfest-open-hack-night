@@ -1,4 +1,4 @@
 # Hacktoberfest-open-hack-night
 Write hacktoberfest in your native language
-हैकटोबर फेस्ट 
+ਹੈਕਟੌਬਰਫੈਸਟ
 
